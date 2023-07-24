@@ -40,7 +40,8 @@ The aims to explore and understand various aspects of Amazon's clothing sales fr
 
 ## Sales overview:
 
- <img width="452" alt="image" src="https://github.com/SaraKarsa/Amazon-Sales-Analysis/assets/132733506/3a904523-5f8d-49bc-a5b5-840008a59d32">
+<img width="978" alt="Screenshot 2023-07-24 at 7 06 57 PM" src="https://github.com/SaraKarsa/Amazon-Sales-Analysis/assets/132733506/987e07f2-84d3-4f22-acac-8717d28fd0b7">
+
 
  
 ## Amazon Sales Analysis:
@@ -51,6 +52,7 @@ The aims to explore and understand various aspects of Amazon's clothing sales fr
 Shipment status, state and city wise sales.
    The Amazon Sales dashboard provides insights on clothing item sales in April 2022. The "Set" category had the highest sales of $15,567K, with top-selling items like Set, Kurta, and Western Dress outperforming Ethnic and Traditional attire. Maharashtra State and Bengaluru city had the highest sales quantity, while Lucknow city had lower sales. Aligning fashion choices with preferences could boost profitability and overall sales performance.
 
-<img width="452" alt="image" src="https://github.com/SaraKarsa/Amazon-Sales-Analysis/assets/132733506/17bd37b2-e3ae-45b7-a6e8-dad0e118bfd2">
+<img width="1399" alt="Screenshot 2023-07-24 at 6 59 23 PM" src="https://github.com/SaraKarsa/Amazon-Sales-Analysis/assets/132733506/b8866ec3-59c4-4c01-9445-b75e189bc572">
+
 
  
