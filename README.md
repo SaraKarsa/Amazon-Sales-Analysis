@@ -1,11 +1,17 @@
 # Amazon-Sales-Analysis
 
+
+![amazon-banner](https://github.com/SaraKarsa/Amazon-Sales-Analysis/assets/132733506/52062f23-bfe8-439c-954b-ab8e436ac544)
+
+
+
+
+
 ## Introduction:
 
 Amazon Sales data analysis aims to explore and understand various aspects of Amazon's clothing sales from April 2022- June 2022. By leveraging the available data, we seek to gain valuable insights into the following key areas: Sales Performance by category & month, quantity by state  status & size.
 
 
-Amazon Image
 
 ## Links
 
