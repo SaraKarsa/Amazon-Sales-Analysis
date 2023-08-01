@@ -4,38 +4,39 @@
 ![amazon-banner](https://github.com/SaraKarsa/Amazon-Sales-Analysis/assets/132733506/52062f23-bfe8-439c-954b-ab8e436ac544)
 
 
-
-
-
 ## Introduction:
 
 Amazon Sales data analysis aims to explore and understand various aspects of Amazon's clothing sales from April 2022- June 2022. By leveraging the available data, we seek to gain valuable insights into the following key areas: Sales Performance by category & month, quantity by state  status & size.
 
 
-
 ## Links
 
-Lets connect 
+Let us connect 
 
-Go to linkedin
+Go to LinkedIn
+
+www.linkedin.com/in/saranya-data-analyst
 
 Go to my dashboard
 
+https://public.tableau.com/views/AmazonSalesAnalysis_16890105336570/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Technologies Used:
+
 Advance Excel
 
 Tableau
 
 ## Steps:
  Data subset collected from online Kaggle.
- Data Cleaning & Finding Missing values
- Data Visualization
-
  
+ Data Cleaning & Finding Missing Values.
+ 
+ Data Visualization.
+
 ## Data Visualization:
 1.	Line chart of Sales by Month and Category
-2.	Tree map chart of Category wise Sales
+2.	Treemap chart of Category wise Sales
 3.	Horizontal Bar chart of Sales By Category, shipment status, quantity by Size 
 4.	Scatterplot chart of top 10 sales by Styles
 5.	Filled map chart of Quantity sales by state
